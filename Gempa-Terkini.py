@@ -47,12 +47,8 @@ os.system('cls' if os.name == 'nt' else 'clear')
 
 print bcolors.MERAH
 print "==================================="
-print "   ____                            "
-print "  / ___| ___ _ __ ___  _ __   __ _ "
-print " | |  _ / _ \ '_ ` _ \| '_ \ / _` |"
-print " | |_| |  __/ | | | | | |_) | (_| |"
-print "  \____|\___|_| |_| |_| .__/ \__,_|"
-print "                      |_|   TERKINI"
+print "   INFO GEMPA DAN TSUNAMI TERINI   "
+print "
 print "==================================="
 print bcolors.NORMAL
 print 
