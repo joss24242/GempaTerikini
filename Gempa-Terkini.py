@@ -6,12 +6,12 @@ import requests
 import xml.dom.minidom as xmlget
 import os
 class bcolors:
-    HIJAU='\033[0;32m'
-    MERAH='\033[01;31m'
+    MERAH='\033[0;32m'
+    KUNING='\033[01;31m'
     NORMAL='\033[0m'
     CYAN='\033[0;36m'
     BIRU='\033[0;34m'
-    PUTIH='\033[1;37m'
+    HIJAU='\033[1;37m'
 
 def main():
     response = requests.get('http://data.bmkg.go.id/autogempa.xml')
