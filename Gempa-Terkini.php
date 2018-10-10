@@ -24,14 +24,16 @@ function main(){
 }
 system('clear');
 print "\033[01;31m"; // Merah tua
-print "=================================== \n";
-print "   ____                             \n";
-print "  / ___| ___ _ __ ___  _ __   __ _  \n";
-print " | |  _ / _ \ '_ ` _ \| '_ \ / _` | \n";
-print " | |_| |  __/ | | | | | |_) | (_| | \n";
-print "  \____|\___|_| |_| |_| .__/ \__,_| \n";
-print "                      |_|   TERKINI \n";
-print "=================================== \n";
+print "============================================= \n";
+print "        INFO GEMPA DAN TSUNAMI TERINI         \n";
+print "  Gampa Terkini yang diambil dari data BMKG   \n";
+print "     Mod By     : Gebang Kiidiw               \n";
+print "     Contact Me : gebangkiidiw@gmail.com      \n";
+print "     Blog       : www.gebangkiidiw.com        \n";
+print "     Instagram  : @Bang_joss24                \n";
+print "     Thanks to  : Mr.Suhada                   \n";
+print " Semoga kita dalam lindungan ALLAH S.W.T      \n";
+print "============================================= \n";
 print "\033[0m"; // Normal
 main();
 ?>
