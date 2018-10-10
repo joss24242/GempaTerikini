@@ -45,11 +45,17 @@ def main():
 # Clear layar
 os.system('cls' if os.name == 'nt' else 'clear')
 
-print bcolors.MERAH
-print "==================================="
-print "   INFO GEMPA DAN TSUNAMI TERINI   "
-print "
-print "==================================="
+print bcolors.KUNING
+print "============================================="
+print "        INFO GEMPA DAN TSUNAMI TERINI        "
+print "  Gampa Terkini yang diambil dari data BMKG  "
+print "     Mod By     : Gebang Kiidiw              "
+print "     Contact Me : gebangkiidiw@gmail.com     "
+print "     Blog       : www.gebangkiidiw.com       "
+print "     Instagram  : @Bang_joss24               "
+print "     Thanks to  : Mr.Suhada                  "
+print " Semoga kita dalam lindungan ALLAH S.W.T     "
+print "============================================="
 print bcolors.NORMAL
 print 
 if __name__ == "__main__":
