@@ -43,6 +43,17 @@ cat << "banner"
   \____|\___|_| |_| |_| .__/ \__,_|
                       |_|   TERKINI
 ===================================
+############################################################
+
+         INFO GEMPA TERKINI 
+    Mod By      : Gebang Kiidiw
+    Contact Me  : gebangkiidiw@gmail.com
+    Blog        : www.gebangkiidiw.com
+    Youtube     : Gebang Kiidiw
+    Instagram   : @Bang_Joss24
+    Thanks to   : Suada99
+
+############################################################
 
 banner
 printf "${NORMAL}"
